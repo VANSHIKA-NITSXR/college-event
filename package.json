@@ -1,0 +1,9 @@
+{
+  "name": "college-event-management-system",
+  "version": "1.0.0",
+  "description": "Web platform for managing college events and student registrations (zero dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
